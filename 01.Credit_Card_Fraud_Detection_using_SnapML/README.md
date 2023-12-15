@@ -1,4 +1,4 @@
-DESCRIPTION ABOUT THE PROJECT
+DESCRIPTION ABOUT THE PROJECT/n
 Code_file.ipynb contain a full detailed coding file
 I have created a machin learning classification model using SnapML's decision tee classifier and compared with sklearn's classifier. And checked the SnapML Decision tree model is 13 times faster than sklearn decision tree model. Becouse, SnapML library offers a CPU/GPU multy-threading. 
 Led a comprehensive credit card fraud detection initiative utilizing advanced machine learning techniques. 
