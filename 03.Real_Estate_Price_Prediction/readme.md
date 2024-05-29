@@ -31,3 +31,10 @@ Scikit-Learn
 
 ## Conclusion:
 This project provides insights into the Bengaluru housing market and offers a predictive model for estimating house prices. Further enhancements and model optimizations can be explored to improve prediction accuracy and robustness.
+
+
+## Software And tools Requirements
+
+1. [Github Account](https://github.com)
+2. [VSCodeIDE](https://code.visualstudio.com/)
+3. [AZURE](https://www.azure.com) - Used to deploy the project
