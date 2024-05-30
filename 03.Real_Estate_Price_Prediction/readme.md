@@ -38,3 +38,10 @@ This project provides insights into the Bengaluru housing market and offers a pr
 1. [Github Account](https://github.com)
 2. [VSCodeIDE](https://code.visualstudio.com/)
 3. [AZURE](https://www.azure.com) - Used to deploy the project
+
+
+### NOTE : This model and flask application has been created using the latest version of sklearn and flask if you are going to run this then check the version you have.
+
+## Versions
+1. Flask - 3.0.3
+2. scikit-learn - 1.5.0
